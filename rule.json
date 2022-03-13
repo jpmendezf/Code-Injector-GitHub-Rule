@@ -1,0 +1,14 @@
+{
+	"name": "Test injector Rule",
+	"author": "Osiann",
+	"description": "solo  ejemplo",
+
+	"selector": "google",
+	"onLoad": true,
+
+	"code": {
+		"js": "js/file.js",
+		"css": "css/file.css",
+		"html": "html/file.html"
+	}
+}
